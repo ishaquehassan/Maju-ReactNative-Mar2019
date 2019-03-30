@@ -1,0 +1,9 @@
+Your Task is to create two screens/pages 
+1. Splash (Contains button, which will take them to login screen)
+2. Login Screen (It'll be good add text fields and button to it but just text is ok)
+
+Screenshots are attached
+
+Basics : https://facebook.github.io/react-native/docs/tutorial
+Handle Clicks : https://facebook.github.io/react-native/docs/handling-touches
+Navigate Screens : https://facebook.github.io/react-native/docs/navigation
