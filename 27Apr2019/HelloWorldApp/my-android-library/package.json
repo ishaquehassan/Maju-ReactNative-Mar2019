@@ -1,0 +1,8 @@
+{
+  "name": "my-react-module",
+  "description": "My Test Native Module",
+  "version": "2.0.3",
+  "main": "index.js",
+  "author": "Ishaq",
+  "license": "MIT"
+}
